@@ -1,10 +1,31 @@
 <html>
   <head>
     <title>JavaSheet test page</title>
-    <script type="text/javascript" src="javasheet.core.js">
+    <script type="text/javascript" src="js/javasheet.core.js" ></script>
+
+
   </head>
   <body>
-    
+    <h1>Welcome to JavaSheet TestPage</h1>
+
+    <div id="javasheet-tgt">
+    </div>
+
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+      <circle cx="100" cy="50" r="40" stroke="black"
+	  stroke-width="2" fill="red" />
+    </svg>
+    <script>
+      /* Test code goes here */
+      var obj=jsheet("#id");
+      obj.test("caca");
+      var image=obj.createSVG();
+
+      var tgt=document.getElementById("javasheet-tgt");
+      tgt.appendChild(image);
+
+    </script>
+
     
   </body>
 </html>
