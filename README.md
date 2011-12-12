@@ -1,8 +1,9 @@
 # RTFM before everything
 ##########################################################
-## Copyright (C) 2011 KABDEBON Victor
-## License: Mit (Called "The License")
-## Unless required by applicable or agreed in to writing, software distributed on an "AS IS" BASIS WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# Copyright (C) 2011 KABDEBON Victor
+## License: 
+Mit (Called "The License")
+Unless required by applicable or agreed in to writing, software distributed on an "AS IS" BASIS WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 ## Keywords: JavaScript, Music Sheet,
 ## Version: 0.1 (I may forget to update that...)
 
