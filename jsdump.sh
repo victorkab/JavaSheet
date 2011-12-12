@@ -7,3 +7,4 @@ if [ ! -d "tests/js" ]; then
     mkdir tests/js
 fi
 cp src/*.js tests/js
+cp -R resources tests/resources
